@@ -5,9 +5,10 @@
 <video
   src="https://github.com/user-attachments/assets/3891c92c-2bf2-4e67-ad9c-4a496e4039e3/crackedinfinity.mp4"
   controls
-  playsinline           
+  playsinline
   style="max-width:100%;height:auto;display:block;margin:0 auto;">
 </video>
+
 
 
 ## MOST UP TO DATE GUIDE
