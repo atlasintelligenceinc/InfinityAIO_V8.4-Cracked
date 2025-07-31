@@ -1,13 +1,14 @@
 
 
-I cracked Infinity Scripts because the dev ripped me off and its overpriced. All features currently work except for mixer wallets as of 7/31/25.
+#### I cracked Infinity Scripts because the dev ripped me off and its overpriced. All features currently work except for mixer wallets as of 7/31/25.
 
 <video
-  src="https://github.com/user-attachments/assets/afce70c0-9374-4ea9-8dc2-2ff45cb763c4/crackedinfinity.mp4"
+  src="https://github.com/user-attachments/assets/3891c92c-2bf2-4e67-ad9c-4a496e4039e3/crackedinfinity.mp4"
   controls
-  playsinline           
+  playsinline
   style="max-width:100%;height:auto;display:block;margin:0 auto;">
 </video>
+
 
 
 ## MOST UP TO DATE GUIDE
