@@ -1,0 +1,77 @@
+# Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+env/
+
+# Private keys and sensitive data
+*.key
+*.pem
+
+# Configuration files with sensitive data
+config/*.json
+config/*.txt
+!config/*.example.json
+!config/*.example.txt
+
+# Logs
+*.log
+errorLog.txt
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# nyc test coverage
+.nyc_output
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# Build outputs
+dist/
+build/
+bin/
+
+# IDE files
+.vscode/
+.idea/
+.cursor/
+.cursorindexingignore
+.cursorignore
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+

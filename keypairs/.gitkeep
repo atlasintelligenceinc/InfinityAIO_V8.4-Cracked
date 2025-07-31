@@ -1,0 +1,2 @@
+# This file ensures the keypairs/ directory is tracked by Git
+# The directory is used to store generated wallet keypairs during bundler operation 

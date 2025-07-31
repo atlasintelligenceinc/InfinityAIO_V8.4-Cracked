@@ -1,0 +1,2 @@
+# This file ensures the keypairBackup/ directory is tracked by Git
+# The directory is used to store backup copies of wallet keypairs 
